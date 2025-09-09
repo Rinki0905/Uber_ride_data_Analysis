@@ -5,13 +5,13 @@ This project analyzes Uber ride data to uncover insights into booking patterns, 
 
 ## Dataset
 The dataset includes three main tables:
-booking_details – Booking ID, customer ID, driver ID, booking status
-ride_details – Ride distance, price, travel times (CTAT, VTAT)
-unsuccessful_rides – Details of cancellations and incomplete rides.
+-booking_details – Booking ID, customer ID, driver ID, booking status
+-ride_details – Ride distance, price, travel times (CTAT, VTAT)
+-unsuccessful_rides – Details of cancellations and incomplete rides.
 
 ## Tools & Technologies
-SQL – Data preprocessing, joins, and KPI calculation
-Power BI – Dashboard design and interactive reporting
-Excel/CSV – Raw dataset storage
+-SQL – Data preprocessing, joins, and KPI calculation
+-Power BI – Dashboard design and interactive reporting
+-Excel/CSV – Raw dataset storage
 ## Dashboard
 ![Dashboard Screenshot](Screenshot_dashboard.png)
