@@ -14,4 +14,4 @@ SQL – Data preprocessing, joins, and KPI calculation
 Power BI – Dashboard design and interactive reporting
 Excel/CSV – Raw dataset storage
 ## Dashboard
-![Dashboard Screenshot](Screenshot Dashboard.png)
+![Dashboard Screenshot](Screenshot_dashboard.png)
