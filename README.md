@@ -13,3 +13,5 @@ unsuccessful_rides – Details of cancellations and incomplete rides.
 SQL – Data preprocessing, joins, and KPI calculation
 Power BI – Dashboard design and interactive reporting
 Excel/CSV – Raw dataset storage
+## Dashboard
+![Dashboard Screenshot](Screenshot Dashboard.png)
